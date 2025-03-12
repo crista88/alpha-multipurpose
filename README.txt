@@ -1,35 +1,34 @@
-Alpha by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+Alpha-Multipurpose (Modified by DOITpro WEB)
 
+Original Template by HTML5 UP for personal and commercial use under the CC BY 3.0 license 
 
-A clean, super minimal responsive template geared towards startups, app devs, and other
-dedicated folks working tirelessly to launch their products. Includes a landing page,
-generic page, contact page, and a page with a whole mess of pre-styled elements (something
-new I'm trying out). Sass sources are also included.
+About This Template
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+This version of Alpha has been modified and customized by DOITpro WEB based on the original template created by HTML5 UP. It maintains the clean, minimalistic, and fully responsive design but includes additional enhancements for better usability and flexibility.
 
-(* = Not included)
+Modifications by DOITpro WEB
 
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
+Customized layout & styling to better fit modern business and startup needs.
 
-AJ
-aj@lkn.io | @ajlkn
+Replaced demo images with a combination of personal images and Pexels free images.
 
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
+Improved landing page design and additional element styling.
 
+Optimized responsiveness & UX improvements.
 
-Credits:
+Demo Images
 
-	Demo Images:
-		Unsplash (unsplash.com)
+New Demo Images: Pexels (pexels.com) & custom images by DOITpro WEB
 
-	Icons:
-		Font Awesome (fontawesome.io)
+Credits
 
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+Original Template: HTML5 UP
+
+Icons: Font Awesome (fontawesome.io)
+
+Other Libraries:
+
+jQuery (jquery.com)
+
+PS: Need help with the contact form?
+Give formspree.io a try—it's awesome!
